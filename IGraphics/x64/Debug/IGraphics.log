@@ -1,0 +1,24 @@
+﻿  BallDemo.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  d:\mosquito shooter\igraphics\opengl\include\glut.h(34): note: see previous definition of 'CALLBACK'
+d:\mosquito shooter\igraphics\igraphics.h(59): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(59): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\igraphics.h(60): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(60): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\igraphics.h(61): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(61): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\igraphics.h(62): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(62): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\igraphics.h(63): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(63): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\igraphics.h(65): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(65): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\igraphics.h(66): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(66): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\igraphics.h(67): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(67): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\igraphics.h(68): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(68): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\igraphics.h(69): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  d:\mosquito shooter\igraphics\igraphics.h(69): note: None of the functions with this name in scope match the target type
+d:\mosquito shooter\igraphics\balldemo.cpp(539): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
